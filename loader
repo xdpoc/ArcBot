@@ -1,7 +1,7 @@
 -- anti v4 is better https://discord.gg/Apknsqamt
 getgenv().Credit = 'Lol' --Dont change this.
 
-getgenv().Owner = 'berthahilton' --Username of owners.
+getgenv().Owner = 'DancerClawFury2002' --Username of owners.
 
 getgenv().Settings = {
     --// ! Main ! \\--
